@@ -1,6 +1,6 @@
 # Geometry Dash Game
 
-As a Bonus Game Assignment for the VU Amsterdam Computer Science OOFP course, I have implemented
+I have implemented
 a simplified version of the known game 'Geometry Dash' on mobile devices. The game consists in you,
 a square, having to jump to dodge obstacles while trying to reach the end of the map. You win by reaching 
 the end, and you lose if you crash into a block or if you touch a spike. You can dodge these obstacles by jumping
